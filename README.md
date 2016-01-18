@@ -4,4 +4,4 @@ This project is a collaborative and humble effort from my side to
 understand Meteor, React and Git.
 
 
-- Understandng Branching
+- Understanding Branching
