@@ -8,3 +8,4 @@ understand Meteor, React and Git.
 
 - Doing some new work and commit and push
 - Some more changes in master
+- Making some changes in feature branch by user2
